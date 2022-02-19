@@ -1,0 +1,46 @@
+body {
+    min-height: 100vh;
+    position: relative;
+}
+
+.info-block {
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.btn {
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+.nowEdit{
+    background: rgba(144, 205, 255, 0.4);
+}
+/*TABLE 欄位名稱列樣式*/
+.header-style{
+    background: #485aff;
+    color:#FFFFFF;
+}
+.customer-table th{
+    border:1px solid rgba(0, 0, 0, 0.25);
+}
+.customer-table td{
+    border:1px solid rgba(0, 0, 0, 0.1);
+}
+.customer-table{
+    margin: 10px 0px;
+}
+
+.blackboard{
+    border:1px solid rgba(0,0,0,0.25);
+    border-radius: 8px;
+}
+.rank-item {
+    background: #485aff;
+    color:#FFFFFF;
+    padding : 10px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.rank-count{
+    float: right;
+}
